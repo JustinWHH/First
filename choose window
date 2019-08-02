@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+   <h3>王者审判</h3>
+	<form action="">
+		
+<select>
+	<option value="倔强青铜">倔强青铜</option>
+	<option value="永恒砖石">永恒砖石</option>
+	<option value="最强王者">最强王者</option>
+
+</select>
+
+<input type="submit">
+<hr>
+<h3>王者审判</h3>
+	<form action="">
+		<input type="text" name="dd" list="xx">
+<datalist id="xx">
+	<option value="倔强青铜">倔强青铜</option>
+	<option value="永恒砖石">永恒砖石</option>
+	<option value="最强王者">最强王者</option>
+
+</datalist>
+
+<input type="submit">
+	</form>
+</body>
+</html>
